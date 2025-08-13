@@ -1,0 +1,15 @@
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/bin/Debug/net9.0/ConvertAllItemsToString
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/bin/Debug/net9.0/ConvertAllItemsToString.deps.json
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/bin/Debug/net9.0/ConvertAllItemsToString.runtimeconfig.json
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/bin/Debug/net9.0/ConvertAllItemsToString.dll
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/bin/Debug/net9.0/ConvertAllItemsToString.pdb
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/obj/Debug/net9.0/ConvertAllItemsToString.GeneratedMSBuildEditorConfig.editorconfig
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/obj/Debug/net9.0/ConvertAllItemsToString.AssemblyInfoInputs.cache
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/obj/Debug/net9.0/ConvertAllItemsToString.AssemblyInfo.cs
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/obj/Debug/net9.0/ConvertAllItemsToString.csproj.CoreCompileInputs.cache
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/obj/Debug/net9.0/ConvertAllItemsToString.sourcelink.json
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/obj/Debug/net9.0/ConvertAllItemsToString.dll
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/obj/Debug/net9.0/refint/ConvertAllItemsToString.dll
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/obj/Debug/net9.0/ConvertAllItemsToString.pdb
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/obj/Debug/net9.0/ConvertAllItemsToString.genruntimeconfig.cache
+/home/sascha/code/asp.net/exercise/ConvertAllItemsToString/obj/Debug/net9.0/ref/ConvertAllItemsToString.dll
