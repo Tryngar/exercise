@@ -1,0 +1,15 @@
+/home/sascha/code/asp.net/exercise/FindTheBomb/bin/Debug/net9.0/FindTheBomb
+/home/sascha/code/asp.net/exercise/FindTheBomb/bin/Debug/net9.0/FindTheBomb.deps.json
+/home/sascha/code/asp.net/exercise/FindTheBomb/bin/Debug/net9.0/FindTheBomb.runtimeconfig.json
+/home/sascha/code/asp.net/exercise/FindTheBomb/bin/Debug/net9.0/FindTheBomb.dll
+/home/sascha/code/asp.net/exercise/FindTheBomb/bin/Debug/net9.0/FindTheBomb.pdb
+/home/sascha/code/asp.net/exercise/FindTheBomb/obj/Debug/net9.0/FindTheBomb.GeneratedMSBuildEditorConfig.editorconfig
+/home/sascha/code/asp.net/exercise/FindTheBomb/obj/Debug/net9.0/FindTheBomb.AssemblyInfoInputs.cache
+/home/sascha/code/asp.net/exercise/FindTheBomb/obj/Debug/net9.0/FindTheBomb.AssemblyInfo.cs
+/home/sascha/code/asp.net/exercise/FindTheBomb/obj/Debug/net9.0/FindTheBomb.csproj.CoreCompileInputs.cache
+/home/sascha/code/asp.net/exercise/FindTheBomb/obj/Debug/net9.0/FindTheBomb.sourcelink.json
+/home/sascha/code/asp.net/exercise/FindTheBomb/obj/Debug/net9.0/FindTheBomb.dll
+/home/sascha/code/asp.net/exercise/FindTheBomb/obj/Debug/net9.0/refint/FindTheBomb.dll
+/home/sascha/code/asp.net/exercise/FindTheBomb/obj/Debug/net9.0/FindTheBomb.pdb
+/home/sascha/code/asp.net/exercise/FindTheBomb/obj/Debug/net9.0/FindTheBomb.genruntimeconfig.cache
+/home/sascha/code/asp.net/exercise/FindTheBomb/obj/Debug/net9.0/ref/FindTheBomb.dll
