@@ -1,0 +1,15 @@
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/bin/Debug/net9.0/ReturnTheIndexOfAllCapitalLetters
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/bin/Debug/net9.0/ReturnTheIndexOfAllCapitalLetters.deps.json
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/bin/Debug/net9.0/ReturnTheIndexOfAllCapitalLetters.runtimeconfig.json
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/bin/Debug/net9.0/ReturnTheIndexOfAllCapitalLetters.dll
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/bin/Debug/net9.0/ReturnTheIndexOfAllCapitalLetters.pdb
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/obj/Debug/net9.0/ReturnTheIndexOfAllCapitalLetters.GeneratedMSBuildEditorConfig.editorconfig
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/obj/Debug/net9.0/ReturnTheIndexOfAllCapitalLetters.AssemblyInfoInputs.cache
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/obj/Debug/net9.0/ReturnTheIndexOfAllCapitalLetters.AssemblyInfo.cs
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/obj/Debug/net9.0/ReturnTheIndexOfAllCapitalLetters.csproj.CoreCompileInputs.cache
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/obj/Debug/net9.0/ReturnTheIndexOfAllCapitalLetters.sourcelink.json
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/obj/Debug/net9.0/ReturnTheIndexOfAllCapitalLetters.dll
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/obj/Debug/net9.0/refint/ReturnTheIndexOfAllCapitalLetters.dll
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/obj/Debug/net9.0/ReturnTheIndexOfAllCapitalLetters.pdb
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/obj/Debug/net9.0/ReturnTheIndexOfAllCapitalLetters.genruntimeconfig.cache
+/home/sascha/code/asp.net/exercise/ReturnTheIndexOfAllCapitalLetters/obj/Debug/net9.0/ref/ReturnTheIndexOfAllCapitalLetters.dll
