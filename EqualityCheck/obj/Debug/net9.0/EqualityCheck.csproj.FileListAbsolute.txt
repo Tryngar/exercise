@@ -1,0 +1,15 @@
+/home/sascha/code/asp.net/exercise/EqualityCheck/bin/Debug/net9.0/EqualityCheck
+/home/sascha/code/asp.net/exercise/EqualityCheck/bin/Debug/net9.0/EqualityCheck.deps.json
+/home/sascha/code/asp.net/exercise/EqualityCheck/bin/Debug/net9.0/EqualityCheck.runtimeconfig.json
+/home/sascha/code/asp.net/exercise/EqualityCheck/bin/Debug/net9.0/EqualityCheck.dll
+/home/sascha/code/asp.net/exercise/EqualityCheck/bin/Debug/net9.0/EqualityCheck.pdb
+/home/sascha/code/asp.net/exercise/EqualityCheck/obj/Debug/net9.0/EqualityCheck.GeneratedMSBuildEditorConfig.editorconfig
+/home/sascha/code/asp.net/exercise/EqualityCheck/obj/Debug/net9.0/EqualityCheck.AssemblyInfoInputs.cache
+/home/sascha/code/asp.net/exercise/EqualityCheck/obj/Debug/net9.0/EqualityCheck.AssemblyInfo.cs
+/home/sascha/code/asp.net/exercise/EqualityCheck/obj/Debug/net9.0/EqualityCheck.csproj.CoreCompileInputs.cache
+/home/sascha/code/asp.net/exercise/EqualityCheck/obj/Debug/net9.0/EqualityCheck.sourcelink.json
+/home/sascha/code/asp.net/exercise/EqualityCheck/obj/Debug/net9.0/EqualityCheck.dll
+/home/sascha/code/asp.net/exercise/EqualityCheck/obj/Debug/net9.0/refint/EqualityCheck.dll
+/home/sascha/code/asp.net/exercise/EqualityCheck/obj/Debug/net9.0/EqualityCheck.pdb
+/home/sascha/code/asp.net/exercise/EqualityCheck/obj/Debug/net9.0/EqualityCheck.genruntimeconfig.cache
+/home/sascha/code/asp.net/exercise/EqualityCheck/obj/Debug/net9.0/ref/EqualityCheck.dll
