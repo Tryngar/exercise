@@ -1,0 +1,15 @@
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/bin/Debug/net9.0/ArrayOfMultiples
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/bin/Debug/net9.0/ArrayOfMultiples.deps.json
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/bin/Debug/net9.0/ArrayOfMultiples.runtimeconfig.json
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/bin/Debug/net9.0/ArrayOfMultiples.dll
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/bin/Debug/net9.0/ArrayOfMultiples.pdb
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/obj/Debug/net9.0/ArrayOfMultiples.GeneratedMSBuildEditorConfig.editorconfig
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/obj/Debug/net9.0/ArrayOfMultiples.AssemblyInfoInputs.cache
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/obj/Debug/net9.0/ArrayOfMultiples.AssemblyInfo.cs
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/obj/Debug/net9.0/ArrayOfMultiples.csproj.CoreCompileInputs.cache
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/obj/Debug/net9.0/ArrayOfMultiples.sourcelink.json
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/obj/Debug/net9.0/ArrayOfMultiples.dll
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/obj/Debug/net9.0/refint/ArrayOfMultiples.dll
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/obj/Debug/net9.0/ArrayOfMultiples.pdb
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/obj/Debug/net9.0/ArrayOfMultiples.genruntimeconfig.cache
+/home/sascha/code/asp.net/exercise/ArrayOfMultiples/obj/Debug/net9.0/ref/ArrayOfMultiples.dll
