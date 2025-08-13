@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ArrayOfMultiples")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ReverseTheCase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a99a4af01d2be1143248323297f838a54830a40f")]
-[assembly: System.Reflection.AssemblyProductAttribute("ArrayOfMultiples")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ArrayOfMultiples")]
+[assembly: System.Reflection.AssemblyProductAttribute("ReverseTheCase")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ReverseTheCase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

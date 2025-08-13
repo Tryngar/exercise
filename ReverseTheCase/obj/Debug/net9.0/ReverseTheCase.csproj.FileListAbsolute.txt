@@ -1,0 +1,15 @@
+/home/sascha/code/asp.net/exercise/ReverseTheCase/bin/Debug/net9.0/ReverseTheCase
+/home/sascha/code/asp.net/exercise/ReverseTheCase/bin/Debug/net9.0/ReverseTheCase.deps.json
+/home/sascha/code/asp.net/exercise/ReverseTheCase/bin/Debug/net9.0/ReverseTheCase.runtimeconfig.json
+/home/sascha/code/asp.net/exercise/ReverseTheCase/bin/Debug/net9.0/ReverseTheCase.dll
+/home/sascha/code/asp.net/exercise/ReverseTheCase/bin/Debug/net9.0/ReverseTheCase.pdb
+/home/sascha/code/asp.net/exercise/ReverseTheCase/obj/Debug/net9.0/ReverseTheCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/sascha/code/asp.net/exercise/ReverseTheCase/obj/Debug/net9.0/ReverseTheCase.AssemblyInfoInputs.cache
+/home/sascha/code/asp.net/exercise/ReverseTheCase/obj/Debug/net9.0/ReverseTheCase.AssemblyInfo.cs
+/home/sascha/code/asp.net/exercise/ReverseTheCase/obj/Debug/net9.0/ReverseTheCase.csproj.CoreCompileInputs.cache
+/home/sascha/code/asp.net/exercise/ReverseTheCase/obj/Debug/net9.0/ReverseTheCase.sourcelink.json
+/home/sascha/code/asp.net/exercise/ReverseTheCase/obj/Debug/net9.0/ReverseTheCase.dll
+/home/sascha/code/asp.net/exercise/ReverseTheCase/obj/Debug/net9.0/refint/ReverseTheCase.dll
+/home/sascha/code/asp.net/exercise/ReverseTheCase/obj/Debug/net9.0/ReverseTheCase.pdb
+/home/sascha/code/asp.net/exercise/ReverseTheCase/obj/Debug/net9.0/ReverseTheCase.genruntimeconfig.cache
+/home/sascha/code/asp.net/exercise/ReverseTheCase/obj/Debug/net9.0/ref/ReverseTheCase.dll
